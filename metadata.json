@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Soulingo",
+  "description": "An advanced AI language learning platform featuring real-time conversation practice, adaptive curriculum generation with thinking models, and immersive visual scenario creation.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
